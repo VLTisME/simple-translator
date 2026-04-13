@@ -32,6 +32,7 @@ Main functionality:
 - uv (recommended) or pip
 
 Current package versions in this project:
+- fastapi==0.135.3
 - pydantic==2.12.5
 - uvicorn==0.44.0
 - And other dependencies in `requirements.txt`/`pyproject.toml`
