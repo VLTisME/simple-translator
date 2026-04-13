@@ -1,12 +1,12 @@
 # Report Homework 1: APPLICATION PROGRAMMING INTERFACE
 
-Name: Võ Lân Tuấn
-ID: 24120240
-Class: 24CTT3
+- Name: Võ Lân Tuấn
+- ID: 24120240  
+- Class: 24CTT3
 
 ## Models
-Name: mbart-50
-URL: [Model link](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt)
+- Name: mbart-50
+- URL: [Model link](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt)
 
 **Why this model?**
 1. It is a many-to-many language model that supports 50 languages, including Vietnamese and English.
@@ -34,7 +34,7 @@ Main functionality:
 Current package versions in this project:
 - pydantic==2.12.5
 - uvicorn==0.44.0
-And other dependencies in `requirements.txt`/`pyproject.toml`
+- And other dependencies in `requirements.txt`/`pyproject.toml`
 
 **Step 1:** Clone this project, then `cd translator`.
 **Step 2:**
@@ -126,4 +126,4 @@ Response (200):
 More examples are in `tests/test_api.py`.
 
 ## Demo
-- [Drive]()
+- [Youtube]()
