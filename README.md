@@ -128,3 +128,4 @@ More examples are in `tests/test_api.py`.
 
 ## Demo
 - [Youtube](https://www.youtube.com/watch?v=gmQ_VnoySZU)
+[![Youtube](SwaggerUI.png)](https://www.youtube.com/watch?v=gmQ_VnoySZU)
